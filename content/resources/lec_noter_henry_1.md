@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0790691e-61d7-2893-415d-4b3625eac7bb
 resourcetype: Document
 title: Common Sense Reasoning for Interactive Applications
 uid: abcc9a5e-303a-07fb-6d9f-35e65589f840

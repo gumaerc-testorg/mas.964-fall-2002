@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9b26d9e6-646c-3bb0-aad0-db4d8d939740
 resourcetype: Document
 title: Acquiring Common Sense Through Simulation
 uid: d2fab5f5-4289-79f5-d79d-adfd9095e34d

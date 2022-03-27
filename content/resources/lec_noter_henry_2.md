@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0790691e-61d7-2893-415d-4b3625eac7bb
 resourcetype: Document
 title: Common Sense Inference
 uid: dde12a13-2d3e-522e-3d58-8da85d10e892

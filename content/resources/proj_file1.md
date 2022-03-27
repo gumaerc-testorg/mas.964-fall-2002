@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9b26d9e6-646c-3bb0-aad0-db4d8d939740
 resourcetype: Document
 title: The Common Sense DJ
 uid: 27f5eff1-f54f-059e-8ab9-e1bc37319a93
