@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to resources on common sense knowledge and
+  common sense reasoning.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
