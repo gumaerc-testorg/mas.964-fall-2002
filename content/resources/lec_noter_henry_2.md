@@ -5,6 +5,7 @@ file: /courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Common Sense Inference
 uid: dde12a13-2d3e-522e-3d58-8da85d10e892
 ---
 Lecture presentation on common sense Inference.
-

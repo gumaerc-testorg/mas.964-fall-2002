@@ -6,6 +6,7 @@ file: /courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Acquiring Common Sense Through Simulation
 uid: d2fab5f5-4289-79f5-d79d-adfd9095e34d
 ---
 Example of student work for the course project on simulation as an alternative solution to the problem of commonsense knowledge acquisition.
-

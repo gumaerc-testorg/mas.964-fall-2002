@@ -6,6 +6,7 @@ file: /courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Common Sense Reasoning for Interactive Applications
 uid: abcc9a5e-303a-07fb-6d9f-35e65589f840
 ---
 Introductory lecture presentation on common sense reasoning for interactive applications.
-

@@ -7,6 +7,7 @@ file: /courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,6 +17,4 @@ title: The Common Sense DJ
 uid: 27f5eff1-f54f-059e-8ab9-e1bc37319a93
 ---
 Example of student work for the course project on using ThoughtTreasure (TT) as a common sense database to aid in selecting the optimal music for a crowd given certain parameters about the crowd.
-
-
 

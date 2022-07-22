@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Image of a computer screen from a student project showing four different
     activities at once.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Student Project (thumbnail)
@@ -18,4 +19,3 @@ uid: fc83419a-9230-24fe-22e9-d22b9ab8153e
 ---
 Cropped image from a student project. (Image courtesy of Joan Morris-DiMico, Carla Gomez, Roger Sipitakiat, and Luke Ouko.)
 discord@zenjah.com
-

@@ -5,6 +5,7 @@ file: /courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: thoughts_part1.pdf
 uid: cfda9266-7618-0c17-7325-d2620ba1692d
 ---
 Lecture presentation on ThoughtTreasure a common sense knowledge base.
-
